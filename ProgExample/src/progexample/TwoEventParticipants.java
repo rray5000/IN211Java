@@ -4,6 +4,7 @@ public class TwoEventParticipants
 {
    public static void main(String[] args)
    {
+      //Marathon Code example
       Participant marathoners[] = new Participant[2];
       Participant divers[] = new Participant[2];
       int i, j;
