@@ -6,7 +6,7 @@ public class Participant
    private String address;
    public Participant(String n, int a, String add)
    {
-       //full of stuff
+       //full of stuff but add more stuff to comments
       name = n;
       age = a;
       address = add;
